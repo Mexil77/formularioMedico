@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/formularioMedico/static/css/main.95cdb643.chunk.css",
-    "main.js": "/formularioMedico/static/js/main.7d9b9bec.chunk.js",
-    "main.js.map": "/formularioMedico/static/js/main.7d9b9bec.chunk.js.map",
+    "main.js": "/formularioMedico/static/js/main.38d32a0d.chunk.js",
+    "main.js.map": "/formularioMedico/static/js/main.38d32a0d.chunk.js.map",
     "runtime-main.js": "/formularioMedico/static/js/runtime-main.e05408fa.js",
     "runtime-main.js.map": "/formularioMedico/static/js/runtime-main.e05408fa.js.map",
     "static/css/2.150d169a.chunk.css": "/formularioMedico/static/css/2.150d169a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.862000bc.chunk.js",
     "static/css/main.95cdb643.chunk.css",
-    "static/js/main.7d9b9bec.chunk.js"
+    "static/js/main.38d32a0d.chunk.js"
   ]
 }
